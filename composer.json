@@ -1,0 +1,18 @@
+{
+    "name": "sravankatta/statista",
+    "require": {
+        "php": ">=7.1",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Sravankatta\\Statics\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sravan Katta",
+            "email": "katta.sravan_kumar@gmx.de"
+        }
+    ]
+}
